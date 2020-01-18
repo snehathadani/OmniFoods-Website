@@ -171,6 +171,9 @@ border-bottom: 2px solid #e67e22;
 /*-----------------------------*/
 /*------------MEALS------------*/
 /*-----------------------------*/
+.section-meals{
+    padding:0
+}
 .meals-showcase{
     list-style:none;
     width:100%;
