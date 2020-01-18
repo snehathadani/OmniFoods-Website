@@ -23,6 +23,11 @@ html{
    /* center the row on the page*/
    margin:0 auto;
 }
+.section{
+    padding:80px 0;
+}
+
+/*-----------Headings------------*/
 
 h1 {
     margin-top:0;
