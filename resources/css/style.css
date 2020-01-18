@@ -26,14 +26,16 @@ html{
 .section{
     padding:80px 0;
 }
-
+.box{
+    padding:1%
+}
 /*-----------Headings------------*/
 
 h1,
-h2 {
+h2,
+h3 {
     font-weight: 300;
     text-transform: uppercase;
-    letter-spacing: 1px;
 }
 h1{
     margin-top:0;
@@ -41,6 +43,7 @@ h1{
     color: #fff;
     font-size:240%;
     word-spacing: 4px;
+    letter-spacing: 1px;
 }
 h2{
     font-size: 180%;
@@ -48,6 +51,7 @@ h2{
     text-align:center;
     margin-bottom:30px;
     margin-top: 60px;
+    letter-spacing: 1px;
 }
 h2:after{
  display:block;
@@ -58,7 +62,20 @@ h2:after{
  margin:0 auto;
  margin-top: 30px;
 }
-
+h3{
+    font-size:110%;
+    margin-bottom:15px;
+}
+/*------Paragraph------*/
+.long-copy{
+   line-height:145%; 
+   width:70%;
+   margin-left:15%;
+}
+.box p{
+    font-size:90%;
+    line-height: 145%;
+}
 /* ------------------- */
 /* BUTTONS*/
 /*--------------------*/
