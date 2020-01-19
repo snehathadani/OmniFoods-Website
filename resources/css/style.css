@@ -278,3 +278,15 @@ section-features .long-copy{
     width: auto;
     margin-right: 10px;
 }
+/*-----------------------------*/
+/*------------Cities------------*/
+/*-----------------------------*/
+.box img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+}
+/* margin to each of the lines*/
+.city-feature {
+    margin-bottom: 5px;
+}
